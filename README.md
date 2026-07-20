@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m an aspiring software developer passionate about building real-world projects using modern technologies. I have a strong interest in web development, cloud computing (Azure), and AI-based solutions.<br><br>Currently, I’m working on projects like a RAG-based AI Teaching Assistant and exploring full-stack development with .NET and cloud databases. I enjoy learning new technologies and solving practical problems through code
+I'm an aspiring Azure Data Engineer passionate about building scalable, cloud-based data solutions using modern technologies. I have a strong interest in data engineering, cloud computing on Microsoft Azure, and designing efficient data pipelines that transform raw data into meaningful insights.
+
+Currently, I'm learning Azure Data Factory, Azure Databricks, Azure Synapse Analytics, SQL, Python, and Apache Spark while building hands-on projects to strengthen my skills. I enjoy exploring new technologies, solving real-world data challenges, and continuously improving my knowledge of cloud data platforms.
+
+My goal is to become a skilled Azure Data Engineer and contribute to building reliable, secure, and data-driven solutions that create real business value.
 
 
 ## 🌐 Socials:
